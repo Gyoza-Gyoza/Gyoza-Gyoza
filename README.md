@@ -10,10 +10,6 @@ I’m especially interested in:
 - Designing systems that are reusable and easy to extend
 - Turning rough ideas into working prototypes quickly
 - Understanding how design and engineering influence each other
-### What I’ve been working on
-- An expense splitting system with real-time payment flows and receipt-based item sharing
-- Game systems and modular architecture for reusable mechanics
-- Experimental full-stack projects focused on rapid prototyping and iteration
 ### Skills & tools
 - Backend development & API design
 - System architecture & data modeling
